@@ -1,5 +1,7 @@
 # readblet
 
+[![Build Status](https://travis-ci.org/shinshin86/readblet.svg?branch=master)](https://travis-ci.org/shinshin86/readblet)
+
 Readable Time Converter<br>
 
     var readblet = require('readblet');
